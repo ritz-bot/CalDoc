@@ -111,7 +111,7 @@ This function processes the uploaded image file, extracting the image data requi
 
 ### Front-End Setup
 
-- **Header**: Displays the app name "Calorie Advisor".
+- **Header**: Displays the app name "CalDoc".
 - **Image Upload**: Allows users to upload images of their food.
 - **Submit Button**: Processes the uploaded image and displays the calorie and nutritional information.
 
