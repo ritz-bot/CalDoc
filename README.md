@@ -28,7 +28,7 @@ To set up the Calorie Advisor application locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/calorie-advisor.git
+    git clone https://github.com/ritz-bot/calorie-advisor.git
     cd calorie-advisor
     ```
 
@@ -131,7 +131,3 @@ This function processes the uploaded image file, extracting the image data requi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Replace `yourusername` with your actual GitHub username in the clone URL. Make sure to provide a valid link for the Google Maker Suite for API key registration. Additionally, update the project name if it differs from "calorie-advisor" and adjust the API setup instructions as necessary.
