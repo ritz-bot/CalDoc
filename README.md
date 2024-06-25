@@ -131,3 +131,4 @@ This function processes the uploaded image file, extracting the image data requi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![Xnip2024-06-26_00-59-20](https://github.com/ritz-bot/CalDoc/assets/55766032/20a27107-8930-4bce-b58c-182658d5582e)
