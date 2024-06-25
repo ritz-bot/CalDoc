@@ -1,12 +1,8 @@
-Sure! Here's a detailed GitHub README file for the "Calorie Advisor" project. It includes an overview of the project, installation steps, usage instructions, and a detailed description of the methods and requirements used in the application.
-
----
-
-# Calorie Advisor
+# CalDoc
 
 ## Overview
 
-**Calorie Advisor** is a health-focused application that helps users monitor their dietary intake by analyzing the nutritional content and calorie count of their meals. By simply uploading a picture of your food, the app utilizes Google's Gemini Pro Vision API to provide detailed information about the food items, including calorie count, nutritional balance, and an overall assessment of the meal's healthiness.
+**CalDoc** is a health-focused application that helps users monitor their dietary intake by analyzing the nutritional content and calorie count of their meals. By simply uploading a picture of your food, the app utilizes Google's Gemini Pro Vision API to provide detailed information about the food items, including calorie count, nutritional balance, and an overall assessment of the meal's healthiness.
 
 ## Table of Contents
 - [Overview](#overview)
