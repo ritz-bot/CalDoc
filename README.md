@@ -16,7 +16,10 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-  ![Xnip2024-06-26_00-59-20](https://github.com/ritz-bot/CalDoc/assets/55766032/20a27107-8930-4bce-b58c-182658d5582e)
+
+
+![Xnip2024-06-26_00-59-20](https://github.com/ritz-bot/CalDoc/assets/55766032/20a27107-8930-4bce-b58c-182658d5582e)
+
 
 ## Features
 - **Image-Based Calorie Counting**: Upload a photo of your meal, and get a breakdown of the calories for each item.
