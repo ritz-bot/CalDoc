@@ -16,6 +16,8 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+  ![Xnip2024-06-26_00-59-20](https://github.com/ritz-bot/CalDoc/assets/55766032/20a27107-8930-4bce-b58c-182658d5582e)
+
 ## Features
 - **Image-Based Calorie Counting**: Upload a photo of your meal, and get a breakdown of the calories for each item.
 - **Nutritional Analysis**: Assess whether the food is healthy based on its nutritional content.
@@ -28,14 +30,14 @@ To set up the Calorie Advisor application locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ritz-bot/calorie-advisor.git
-    cd calorie-advisor
+    git clone https://github.com/ritz-bot/CalDoc.git
+    cd CalDoc
     ```
 
 2. **Create a virtual environment**:
     ```bash
-    conda create -n calorie-advisor python=3.10
-    conda activate calorie-advisor
+    conda create -n CalDoc python=3.10
+    conda activate CalDoc
     ```
 
 3. **Install required libraries**:
@@ -74,7 +76,7 @@ To set up the Calorie Advisor application locally, follow these steps:
 
 1. **Virtual Environment Creation**:
     - The application requires Python 3.10 for compatibility with the Google Gemini Pro API.
-    - Use `conda create -n calorie-advisor python=3.10` to set up a conda environment.
+    - Use `conda create -n CalDoc python=3.10` to set up a conda environment.
 
 2. **Install Dependencies**:
     - Dependencies include Streamlit for the front-end interface, the Google Generative AI library for interacting with the API, and `python-dotenv` for managing environment variables.
@@ -129,4 +131,4 @@ This function processes the uploaded image file, extracting the image data requi
 5. **Open a Pull Request**.
 
 
-![Xnip2024-06-26_00-59-20](https://github.com/ritz-bot/CalDoc/assets/55766032/20a27107-8930-4bce-b58c-182658d5582e)
+
